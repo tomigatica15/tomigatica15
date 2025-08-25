@@ -67,5 +67,5 @@
 
 ### 📫 Contacto  
 - 🐦 Twitter: [TomiiGatica](https://x.com/TomiiGatica)
-
+- 🤖 Discord: tomiig
 ---
