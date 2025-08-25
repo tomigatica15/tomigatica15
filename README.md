@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomigatica15&label=Profile%20views&color=0e75b6&style=flat" alt="tomigatica15" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Copa Roblox](https://github.com/tomigatica15/copa-roblots)
+- 🔭 Actualmente estoy trabajando en [Copa Roblox](https://www.coparoblox.com/)
 
 - 👯 Colabore en [overextended](https://github.com/overextended)
 
