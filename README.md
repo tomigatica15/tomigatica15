@@ -8,8 +8,8 @@
 ---
 
 ### 🔭 Proyectos actuales
-- [Copa Roblox](https://www.coparoblox.com/) – Evento de Twitch.
-- Colaboración en [Overextended](https://github.com/overextended) – Desarrollo de scripts y mejoras.
+- [ParadiseStore](https://paradisestore.paradisedev.net/) – En progreso.
+- Desarolle [Copa Roblox](https://coparoblox.com/) – Evento de Twitch.
 - 🌱 Aprendiendo Kotlin y explorando desarrollo móvil nativo.
 - ⚡ Hobby: Desarrollar y administrar gameservers de todo tipo.
 
