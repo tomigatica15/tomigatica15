@@ -7,14 +7,6 @@
 
 ---
 
-### 🔭 Proyectos actuales
-- [ParadiseStore](https://paradisestore.paradisedev.net/) – En progreso.
-- Desarolle [Copa Roblox](https://coparoblox.com/) – Evento de Twitch.
-- 🌱 Aprendiendo Kotlin y explorando desarrollo móvil nativo.
-- ⚡ Hobby: Desarrollar y administrar gameservers de todo tipo.
-
----
-
 ### 💻 Lenguajes y herramientas
 
 **Frontend:**  
