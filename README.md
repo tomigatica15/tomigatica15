@@ -67,14 +67,6 @@ Construyendo soluciones IT desde 2019
 
 ---
 
-### 📊 Estadísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomigatica15&show_icons=true&locale=en" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomigatica15&layout=compact&langs_count=10" />
-</p>
-
----
-
 ### 📫 Contacto  
 - 🌐 Web: https://tgdevs.net  
 - 🐦 Twitter: https://x.com/TomiiGatica  
